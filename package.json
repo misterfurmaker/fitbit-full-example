@@ -25,7 +25,8 @@
       "vulcan"
     ],
     "i18n": {},
-    "defaultLanguage": "en-US"
+    "defaultLanguage": "en-US",
+    "appUUID": "5224dffd-ae4b-415f-a2b6-515d864a1fc1"
   },
   "scripts": {
     "build": "fitbit-build",
